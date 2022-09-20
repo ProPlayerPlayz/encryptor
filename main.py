@@ -4,7 +4,6 @@ Program Made by :
     Raghav Srivatsan
     Rohith Krishna
 
-Note:
     The program doesnt't work without it's functions counterpart
 """
 '''
