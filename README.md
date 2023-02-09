@@ -1,8 +1,9 @@
-===============================================
-               Encryptor v1.16
------------------------------------------------
-          Class 12 Computer Project
-===============================================
+
+---
+# Encryptor v.1.16
+## Class 12 Computer Project
+---
+
 
 Please Note:
  - The program is attached as a .exe setup application.
@@ -30,7 +31,7 @@ Please Note:
  - It will cause the program to stop working from the exe application
 
 
------------------------------------------------
+---
 Project Description:
    
    This Project Aims to show light on the hashing and encryption modules
@@ -48,47 +49,27 @@ Project Description:
    When the same user logs back in his/her data will be displayed in the same
    text box for them to use or read
 
-
------------------------------------------------
+---
 
 Modules Used:
 
-+-----------------+------------------+------------------+
-|                 |                  |                  |
-|   Module Name   |   Description    |  Use in Program  |
-|                 |                  |                  |
-+-----------------+------------------+------------------+
-|                 | Used for making  | For making       |
-|    tkinter      | Interactable GUIs|       Windows    |
-+-----------------+------------------+------------------+
-|                 | Used for         | For hashing      |
-|    hashlib      |      Hashing     |       passwords  |
-+-----------------+------------------+------------------+
-|                 | Used for making  | For Generating   |
-|     uuid        | random UUIDs     | Salt for Hashing |
-+-----------------+------------------+------------------+
-|                 | Used for         | For Deleting  &  |
-|      os         |  various things  |  Adding Files    |
-+-----------------+------------------+------------------+
-|                 | Part of          | Used for         |
-|    Fernet       |    cryptography  |    Encryption    |
-+-----------------+------------------+------------------+
-|                 | Converts py to   | Used to make the |
-|  pyinstaller    |             exe  | program an app   |
-+-----------------+------------------+------------------+
-|                 |  Sotring Binary  | Used for storing |
-|    pickle       |       Data       | Encryption key   |
-+-----------------+------------------+------------------+
+| Module Name | Use in Project |
+|-------------|----------------|
+| tkinter     | Making GUI     |
+| hashlib     | Hashing        |
+| uuid        | Creating UUIDS |
+| os          | File Managment |
+| Fernet      | Cryptography   |
+| pyinstaller | py to exe      |
+| pickle      | Binary Data    |
 
-Misc:
+External Software:
 
-+-----------------+------------------+------------------+
-|                 | Converts files to| Used to make the |
-| NSIS (Software) | Compressed Setups| app to a setup   |
-+-----------------+------------------+------------------+
+| Module Name | Use in Project     |
+|-------------|--------------------|
+| NCIS        | Files to Setup.exe |
 
-
------------------------------------------------
+---
 
 Credits:
 
@@ -96,14 +77,13 @@ Credits:
  - Raghav Srivatsan
  - Rohith Krishna
 
------------------------------------------------
+---
 
 Contacts:
  - sakthiswaroopan@gmail.com
  - rohith142003@gmail.com
  - arcreacraghav@gmail.com
 
-----------------------------------------------
-===============================================
-                  Thank You!
-===============================================
+---
+## Thank You
+---
